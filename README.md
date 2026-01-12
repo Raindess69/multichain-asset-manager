@@ -1,0 +1,1 @@
+# multichain-asset-manager
