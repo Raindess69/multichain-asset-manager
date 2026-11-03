@@ -1,4 +1,4 @@
-web3
-solana
-solders
-loguru
+web3>=7,<9
+solana>=0.36,<0.42
+solders>=0.23,<0.30
+loguru>=0.7
