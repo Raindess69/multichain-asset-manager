@@ -1,2 +1,3 @@
 -r requirements.txt
 pytest>=8
+base58>=2.1          # tests/test_helpers.py encodes a test keypair
